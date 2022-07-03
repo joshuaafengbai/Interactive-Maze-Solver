@@ -8,11 +8,11 @@ the four directions North, South, East, and West. Solving a maze consists in rea
 
 This problem can be broken down into 3 major steps
 
-## 1. Build the maze
+### 1. Build the maze
 
-## 2. Traverse the maze
+### 2. Traverse the maze
 
-## 3. Interactively Solving the maze
+### 3. Interactively Solving the maze
 
 ## Improvements to solving algorithm using stacks and queues
 
