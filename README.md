@@ -6,15 +6,11 @@ the four directions North, South, East, and West. Solving a maze consists in rea
 
 ![Screenshot 2022-07-03 at 18 06 36](https://user-images.githubusercontent.com/65661697/177050026-075f00db-e071-4097-8ad6-a3073b6fbc87.png)
 
-This problem can be broken down into 3 major steps
-
-### 1. Build the maze
-
-### 2. Traverse the maze
-
-### 3. Interactively Solving the maze
-
-## Improvements to solving algorithm using stacks and queues
+This problem can be broken down into 4 major steps:
+1. Build the maze
+2. Traverse the maze
+3. Interactively Solving the maze
+4. Improvements to solving algorithm using stacks and queues
 
 # Getting Started
 Open a new terminal window or cmd if you are on windows
